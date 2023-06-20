@@ -1,15 +1,15 @@
-/big-bucket/fourier-transformed-data/*
-/big-bucket/fourier-wavelet-transformed-data/*
-/big-bucket/negative-examples/*
-/big-bucket/positive-examples/*
-/big-bucket/scaled-image-data/*
-/big-bucket/wavelet-transformed-data/*
+/data/big-bucket/fourier-transformed-data/*
+/data/big-bucket/fourier-wavelet-transformed-data/*
+/data/big-bucket/negative-examples/*
+/data/big-bucket/positive-examples/*
+/data/big-bucket/scaled-image-data/*
+/data/big-bucket/wavelet-transformed-data/*
 
-/small-bucket/fourier-transformed-data/*
-/small-bucket/fourier-wavelet-transformed-data/*
-/small-bucket/negative-examples/*
-/small-bucket/positive-examples/*
-/small-bucket/scaled-image-data/*
-/small-bucket/wavelet-transformed-data/*
+/data/small-bucket/fourier-transformed-data/*
+/data/small-bucket/fourier-wavelet-transformed-data/*
+/data/small-bucket/negative-examples/*
+/data/small-bucket/positive-examples/*
+/data/small-bucket/scaled-image-data/*
+/data/small-bucket/wavelet-transformed-data/*
 
 /models/*
