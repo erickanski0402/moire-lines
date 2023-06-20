@@ -1,0 +1,15 @@
+/big-bucket/fourier-transformed-data/*
+/big-bucket/fourier-wavelet-transformed-data/*
+/big-bucket/negative-examples/*
+/big-bucket/positive-examples/*
+/big-bucket/scaled-image-data/*
+/big-bucket/wavelet-transformed-data/*
+
+/small-bucket/fourier-transformed-data/*
+/small-bucket/fourier-wavelet-transformed-data/*
+/small-bucket/negative-examples/*
+/small-bucket/positive-examples/*
+/small-bucket/scaled-image-data/*
+/small-bucket/wavelet-transformed-data/*
+
+/models/*
